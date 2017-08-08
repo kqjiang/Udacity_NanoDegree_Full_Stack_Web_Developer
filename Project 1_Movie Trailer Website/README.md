@@ -14,6 +14,6 @@ To generate the HTML page for this site, take the following steps:
 
   1. Clone this repository to local foler using git.
 
-  2. to run the project, you can 1) In terminal, run "entertainment.py" or 2) on IDLE, run "entertainment.py"
+  2. to run the project, you can 1) In terminal, run "entertainment_center.py" or 2) on IDLE, run "entertainment_center.py"
 
 The script will generate an HTML page that will open automatically in your default browser. 
